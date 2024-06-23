@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "18650_Li_Battery_Holder")(type "KiCad")(uri "${KIPRJMOD}/lib/18650_Li_Battery_Holder.pretty")(options "")(descr ""))
+  (lib (name "BMS_Module")(type "KiCad")(uri "${KIPRJMOD}/lib/BMS_Module.pretty")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/lib/Espressif.pretty")(options "")(descr ""))
+  (lib (name "Switches")(type "KiCad")(uri "${KIPRJMOD}/lib/Switches.pretty")(options "")(descr ""))
+)
